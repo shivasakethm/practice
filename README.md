@@ -1,1 +1,1 @@
-# practice
+# this repository is for leetcode solutions
